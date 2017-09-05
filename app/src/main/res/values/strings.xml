@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Rubbick\'s Forecast</string>
+
+    <string-array name="myColor">
+        <item>RED</item>
+        <item>YELLOW</item>
+        <item>GREEN</item>
+        <item>BLUE</item>
+    </string-array>
+</resources>
